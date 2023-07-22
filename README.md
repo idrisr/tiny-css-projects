@@ -13,7 +13,7 @@
 * Chapter 11: Animated social media links
 * Chapter 12: [Using Pre-processors](./chapter-12/readme.md)
 
-# To run
+# To run in QEMU virtual machine
 
 run the example from chapter 1, before changes
 ```
