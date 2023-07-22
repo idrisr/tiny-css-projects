@@ -13,3 +13,16 @@
 * Chapter 11: Animated social media links
 * Chapter 12: [Using Pre-processors](./chapter-12/readme.md)
 
+# To run
+
+run the example from chapter 1, before changes
+```
+WWW=$PWD/01/before nix run
+```
+
+run the example from chapter 9, after changes
+```
+WWW=$PWD/09/after nix run
+```
+
+and so on ...
